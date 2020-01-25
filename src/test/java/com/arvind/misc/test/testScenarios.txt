@@ -1,0 +1,126 @@
+GET_RELATIONSHIP Vich Daughter
+ADD_CHILD Chitra Aria Female
+GET_RELATIONSHIP Aria Siblings
+GET_RELATIONSHIP Vich Son
+GET_RELATIONSHIP Lika Daughter
+GET_RELATIONSHIP Lika Son
+
+GET_RELATIONSHIP Lavnya Maternal-Aunt
+GET_RELATIONSHIP Atya Sister-In-Law
+GET_RELATIONSHIP Atya Siblings
+GET_RELATIONSHIP Jnki Sister-In-Law
+
+GET_RELATIONSHIP Jaya Brother-In-Law
+
+GET_RELATIONSHIP Krpi Brother-In-Law
+GET_RELATIONSHIP Tritha Brother-In-Law
+GET_RELATIONSHIP 		Tritha 		Brother-In-Law
+		GET_RELATIONSHIP    		Jnki    		Sister-In-Law
+		
+GET_RELATIONSHIP Chitra Daughter
+ADD_CHILD Lika Tika Male
+ADD_CHILD Lika Sika male
+GET_RELATIONSHIP Vich Father
+GET_RELATIONSHIP Krithi Mother
+GET_RELATIONSHIP Asva Brother
+ADD_CHILD Lika Lika Female
+GET_RELATIONSHIP Lika Daughter
+GET_RELATIONSHIP Lika
+ADD_CHILD Lika
+ADD_SPOUSE Chitra Jagjeet
+GET_RELATIONSHIP Lika Children
+ADD_CHILD Lika Tika Male
+ADD_SPOUSE Ish Ish
+GET_RELATIONSHIP Ish spouse
+GET_RELATIONSHIP Ish spouse
+GET_RELATIONSHIP Lika daughter
+GET_RELATIONSHIP Lika son
+ADD_CHILD Lika Lika Male
+GET_RELATIONSHIP Vila Maternal-Aunt
+GET_RELATIONSHIP Chitra son
+GET_RELATIONSHIP Vyan Children
+GET_RELATIONSHIP Laki Paternal-Uncle
+GET_RELATIONSHIP Yodhan Maternal-Uncle
+GET_RELATIONSHIP Kriya Paternal-Aunt
+GET_RELATIONSHIP Yodhan Maternal-Aunt
+GET_RELATIONSHIP Kripi Sister-In-Law
+GET_RELATIONSHIP Vyan Brother-In-Law
+GET_RELATIONSHIP Satya Son
+GET_RELATIONSHIP Chit Daughter
+GET_RELATIONSHIP Chika Siblings
+GET_RELATIONSHIP Shan father
+GET_RELATIONSHIP Shan mother
+GET_RELATIONSHIP Shan children
+GET_RELATIONSHIP Shan siblings
+GET_RELATIONSHIP Shan Maternal-Uncle
+GET_RELATIONSHIP Shan Maternal-Aunt
+GET_RELATIONSHIP Shan Paternal-Uncle
+GET_RELATIONSHIP Shan Paternal-Aunt
+GET_RELATIONSHIP Shan Sister-In-Law
+GET_RELATIONSHIP Shan Brother-In-Law
+GET_RELATIONSHIP Shan son
+GET_RELATIONSHIP Shan Daughter
+GET_RELATIONSHIP Shan Spouse
+ADD_CHILD Shan ShanJunior Male
+
+GET_RELATIONSHIP Anga father
+GET_RELATIONSHIP Anga mother
+GET_RELATIONSHIP Anga children
+GET_RELATIONSHIP Anga siblings
+GET_RELATIONSHIP Anga Maternal-Uncle
+GET_RELATIONSHIP Anga Maternal-Aunt
+GET_RELATIONSHIP Anga Paternal-Uncle
+
+GET_RELATIONSHIP Anga                              
+                              			
+GET_RELATIONSHIP           Paternal-Aunt
+			                              					
+GET_RELATIONSHIP Anga Paternal-Aunt
+GET_RELATIONSHIP Anga Sister-In-Law
+GET_RELATIONSHIP Anga Brother-In-Law
+GET_RELATIONSHIP Anga son
+GET_RELATIONSHIP Anga Daughter
+GET_RELATIONSHIP Anga Spouse
+ADD_CHILD Anga AngaJunior FeMale
+
+GET_RELATIONSHIP Shan children
+
+GET_RELATIONSHIP Anga children
+
+GET_RELATIONSHIP Vyan Maternal-Uncle
+GET_RELATIONSHIP Vyan Maternal-Aunt
+GET_RELATIONSHIP Vyan Paternal-Uncle
+GET_RELATIONSHIP Vyan Paternal-Aunt
+GET_RELATIONSHIP Vyan Sister-In-Law
+GET_RELATIONSHIP Vyan Brother-In-Law
+
+GET_RELATIONSHIP Vila Paternal-Uncle
+GET_RELATIONSHIP Vila Paternal-Aunt
+
+GET_RELATIONSHIP Lavnya Maternal-Aunt
+
+
+GET_RELATIONSHIP Vasa Siblings
+
+
+GET_RELATIONSHIP NotExist children
+GET_RELATIONSHIP NotExist Father
+GET_RELATIONSHIP NotExist Daughter
+GET_RELATIONSHIP Aria Siblings
+GET_RELATIONSHIP NotExist Son
+GET_RELATIONSHIP NotExist Daughter
+GET_RELATIONSHIP NotExist Son
+GET_RELATIONSHIP NotExist Brother-In-Law
+GET_RELATIONSHIP NotExist Sister-In-Law
+GET_RELATIONSHIP NotExist Siblings
+GET_RELATIONSHIP NotExist Maternal-Uncle
+GET_RELATIONSHIP NotExist Maternal-Aunt
+GET_RELATIONSHIP NotExist Paternal-Uncle
+GET_RELATIONSHIP NotExist Paternal-Aunt
+GET_RELATIONSHIP NotExist Father-In-Law
+GET_RELATIONSHIP NotExist Mother-In-Law
+
+
+
+
+          
